@@ -110,7 +110,7 @@ We recommend using `COLMAP` with images or video. Note that when taking images t
 
 Theoretical background and training examples can be found at [InstantNGP](https://docs.nerf.studio/en/latest/nerfology/methods/instant_ngp.html), [Mip-NeRF](https://docs.nerf.studio/en/latest/nerfology/methods/mipnerf.html) and [TensoRF](https://docs.nerf.studio/en/latest/nerfology/methods/tensorf.html).
 
-## Task 3. Run NeuS
+### Task 3. Run NeuS
 You can check available methods at [SDFStudio project page](https://docs.nerf.studio/en/latest/extensions/sdfstudio.html#).
 
 We recommend creating a new environment at a separate directory.
@@ -119,7 +119,7 @@ Follow the instructions to install required packages. [SDFStudio github](https:/
 You can check available dataset at [SDFStudio dataset](https://github.com/autonomousvision/sdfstudio/blob/master/docs/sdfstudio-data.md)
 Select any dataset you prefer and train NeuSFacto. 
 
-## Task 4. Export mesh
+### Task 4. Export mesh
 Once you have completed training, you can visualize implicit function by mesh extraction. 
 Use the following command. 
 ```
@@ -131,7 +131,7 @@ Example mesh of Brandenburg gate (takes ~12 hours using 8 GPUs)
   <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/37b1001f-3dd4-4c59-862a-21e7b383ba01">
 </p>
 
-## Task 5. Run `DreamFusion`
+### Task 5. Run `DreamFusion`
 Follow the instructions to install prerequisites. You can find more details at [ThreeStudio github](https://github.com/threestudio-project/threestudio).
 
 Run DreamFusion using either Stable Diffusion model or DeepFloy IF. 
@@ -143,7 +143,7 @@ Here's an example of DreamFusion output.
   <img width="800" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f9136b33-043b-4ba9-9f0f-857cdf860f0c">
 </p>
 
-## Task 6. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
+### Task 6. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
 (⚠ High VRAM usage)
 Train other methods available on ThreeStudio. 
 How do the results differ to vanilla DreamFusion ?
@@ -156,11 +156,11 @@ Example outputs of `Magic3D` and `ProlificDreamer`.
   <img width="600" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/4dbb2450-1cd5-45de-9914-eb11d9477181">
 </p>
 
-## Task 7. (Optional) Extend framework
+### Task 7. (Optional) Extend framework
 Pick any paper from [here](https://www.notion.so/geometry-kaist/Tutorial-3-NeRF-Applications-12aad39d9dec4d22b17475fd25bc0f17?pvs=4) and extend NeRFStudio/SDFStudio/ThreeStudio. 
 
 
-## Further Readings
+### Further Readings
 
 If you are interested in this topic, we encourage you to check out the papers listed below.
 
