@@ -163,8 +163,6 @@ Pick any paper from [here](https://www.notion.so/geometry-kaist/Tutorial-3-NeRF-
 ### Further Readings
 
 If you are interested in this topic, we encourage you to check out the papers listed below.
-
-- 
 - [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction (NeurIPS 2021)](https://arxiv.org/abs/2106.10689)
 - [Volume Rendering of Neural Implicit Surfaces (NeurIPS 2021)](https://arxiv.org/abs/2106.12052)
 - [DreamFusion: Text-to-3D using 2D Diffusion (ICLR 2023)](https://arxiv.org/abs/2209.14988)
