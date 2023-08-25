@@ -35,7 +35,6 @@ Most of the tasks in this week are focused on installation, training and visuali
   
 - [Abstract](#abstract)
 - [Setup](#setup)
-- [Code Structure](#code-structure)
 - [Tasks](#tasks)
   - [Task 0. Run NeRFacto](#task-0-Run-NeRFacto)
   - [Task 1. Try your own data](#task-1-Try-your-own-data)
@@ -146,6 +145,7 @@ Here's an example of DreamFusion output.
 ### Task 6. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
 (⚠ High VRAM usage)
 Train other methods available on ThreeStudio. 
+
 How do the results differ to vanilla DreamFusion ?
 
 Example outputs of `Magic3D` and `ProlificDreamer`.
