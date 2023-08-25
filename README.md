@@ -16,7 +16,7 @@
 </div>
 
 <div align=center>
-  <img src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/c469c5be-a0f3-4aff-8023-2ccee672b9c4" width="1000" />
+  <img src="./fig/teaser.gif" width="1000" />
 </div>
 
 ## Abstract
@@ -96,8 +96,8 @@ More explanation of NeRFacto can be found at [here](https://docs.nerf.studio/en/
 
 Once you successfully execute their code, you will be provided with a viewer link where you can navigate around the scene online. 
 <p align="center">
-  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/21535800-99e7-4396-8355-6b9eb25ed84b" width="500" />
-  <img width="300" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/898caa77-a074-431c-94c3-630f3f2210d2" width="500" /> 
+  <img width="300" src="./fig/viewer_1.png" width="500" />
+  <img width="300" src="./fig/viewer_2.png" width="500" /> 
 </p>
 
 ### Task 1. Try your own data
@@ -127,7 +127,7 @@ ns-extract-mesh --load-config outputs/neus-facto-dtu65/neus-facto/XXX/config.yml
 
 Example mesh of Brandenburg gate (takes ~12 hours using 8 GPUs)
 <p align="center">
-  <img width="400" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/37b1001f-3dd4-4c59-862a-21e7b383ba01">
+  <img width="400" src="./fig/export_mesh.png">
 </p>
 
 ### Task 5. Run `DreamFusion`
@@ -139,7 +139,7 @@ Freely select text prompt you prefer and train the model.
 Here's an example of DreamFusion output.
 
 <p align="center">
-  <img width="800" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/f9136b33-043b-4ba9-9f0f-857cdf860f0c">
+  <img width="800" src="./fig/dreamfusion.gif">
 </p>
 
 ### Task 6. (Optional) Try other methods: `Magic3D`, `ProlificDreamer` 
@@ -151,9 +151,9 @@ How do the results differ to vanilla DreamFusion ?
 Example outputs of `Magic3D` and `ProlificDreamer`.
 
 <p align="center">
-  <img width="600" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/ba274f53-c4c7-4c73-91e8-fd8c7adf1560">
+  <img width="600" src="./fig/magic3d.gif">
 
-  <img width="600" src="https://github.com/KAIST-Geometric-AI-Group/Tutorial_3/assets/58447982/4dbb2450-1cd5-45de-9914-eb11d9477181">
+  <img width="600" src="./fig/prolific.gif">
 </p>
 
 ### Task 7. (Optional) Extend framework
