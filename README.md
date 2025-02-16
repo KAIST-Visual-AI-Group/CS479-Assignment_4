@@ -3,15 +3,15 @@
     NeRF Applications
   </h1>
   <p>
-    <a href=https://mhsung.github.io/kaist-cs479-fall-2023/ target="_blank"><b>KAIST CS479: Machine Learning for 3D Data (2023 Fall)</b></a><br>
-    Programming Assignment 4
+    <a href=https://mhsung.github.io/kaist-cs479-fall-2023/ target="_blank"><b>KAIST CS479: Machine Learning for 3D Data</b></a><br>
   </p>
 </div>
 
 <div align=center>
   <p>
     Instructor: <a href=https://mhsung.github.io target="_blank"><b>Minhyuk Sung</b></a> (mhsung [at] kaist.ac.kr)<br>
-    TA: <a href=https://github.com/jh27kim target="_blank"><b>Jaihoon Kim</b></a>  (jh27kim [at] kaist.ac.kr)      
+    TA: <a href=https://github.com/phillipinseoul target="_blank"><b>Yuseung Lee</b></a>  (phillip0701 [at] kaist.ac.kr)<br>      
+    Credit: <a href=https://github.com/jh27kim target="_blank"><b>Jaihoon Kim</b></a>  (jh27kim [at] kaist.ac.kr)      
   </p>
 </div>
 
